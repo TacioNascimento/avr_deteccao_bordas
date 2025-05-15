@@ -5,7 +5,7 @@
 
 
 |Função|Dispositivo|Descrição|Pino(Arduino Uno)|Pino(ATmega328P)|PORT|
-|:----:|:---------:|:-------:|:---------------:|:---------------|:--:|
+|:----:|:---------:|:-------:|:---------------:|:--------------:|:--:|
 |Saída|Diplay 7 segmentos|Segmento a|0|2|PD0|
 |Saída|Diplay 7 segmentos|Segmento b|1|3|PD1|
 |Saída|Diplay 7 segmentos|Segmento c|2|4|PD2|
